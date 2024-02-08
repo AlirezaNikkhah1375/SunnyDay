@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "137490242625",
+    "project_id": "no-more-waste-7306f",
+    "storage_bucket": "no-more-waste-7306f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:137490242625:android:b6ef2994fc0204be783ac0",
+        "android_client_info": {
+          "package_name": "com.example.no_more_waste"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDD8PZt1-tm4PDG7M0f1F1CxPcJGm0Tu1s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
